@@ -2080,3 +2080,14 @@ https://watchindia.net:8443/live/04245/14504/2166.ts
 #EXTINF:-1,star pravah
 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Star_Pravah_2019.png"parent-code=1234" audio-track="IN",STAR PARVAH HD
 http://tamilcuisine.online/api/auth/stred/str7.php?uid=Prasadelectric_6532140&id=47888
+
+#EXTINF:-1,  REPUBLIC BHARAT हिन्दी 
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Prasadelectric_6532140&id=47891=47891
+#EXTINF:-1,  REPUBLIC TV
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=Prasadelectric_6532140&c=0-9-channel_1422341819
+#EXTINF:-1,  ZEE NEWS हिन्दी 
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=Prasadelectric_6532140&c=0-9-zeenews
+
+
+
+
