@@ -3575,6 +3575,184 @@ http://indtv.online/notv/353.m3u8
 http://indtv.online/notv/323.m3u8
 
 
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Fox News
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Kumar Sanu Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/kumarsanu_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Alka Yagnik Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/alkayagnik_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Abhijeet Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/abhijeet_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Udit Narayan Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/uditnarayan_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Lata Mangeshkar Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/latamangeshkar_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Kishore Kumar Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/kishorekumar_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Asha Bhosle Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/ashabhosle_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Mohd Rafi Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/mohdrafi_aac/chunklist_w489482750.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Morning Melodies Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/morning_melodies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Musical Matinees Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/musical_matinees/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Chai Time with Retroclassic Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/chaitimewith_retroclassic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Night Lounge Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/night_lounge/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Late Night Chill Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/latenight_chill/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Hid Radio
+http://hidradio.live-streams.nl/live
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Radio BollyFM
+http://stream.radiobollyfm.in:8201/hd?t=1526570335
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Radio Mirchi 98.3
+https://str2b.openstream.co/1311
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Radio Mirchi (peridot)
+http://peridot.streamguys.com:7150/Mirchi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Big 95 FM
+https://radioindia.net/radio/sc-bb/icecast.audio
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", 92.7 Big FM Mumbai
+http://sc-bb.1.fm:8017/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Mashup 102 Radio
+http://163.172.213.155:8010/stream
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Radio Garam Masala
+http://69.175.94.98:8146/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Radio Hindi International
+http://radio.bongonet.net:8012/rhi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Bollywood Radio and Beyond
+http://96.31.83.86:8084/;
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Bollywood Radio and Beyond (2)
+http://185.80.220.12:8046/stream
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Radio Namkin
+http://node-02.zeno.fm/gzvb3h65puquv?rj-ttl=5&rj-tok=AAABcdtQ2GcAmsJyA8DzgOw-WQ
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Non Stop Hindi Radio
+http://198.178.123.14:8216/;
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Mirchi Toota Dil (gaana.com).......Mirchi
+https://tootadil-lh.akamaihd.net/i/tootadil_1@42539/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Mirchi Love
+https://mirchilove-lh.akamaihd.net/i/MIRCHILOVE_1@32886/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Meethi Mirchi
+https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Yo Punjabi Mirchi
+https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Mirchi Top 20
+https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", BBC Asian Network (bbci)
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_asian_network.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", AR Rahman Lite
+http://212.83.138.48:8332/;
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Mirchi Unplugged
+https://mirchiunplugged-lh.akamaihd.net/i/mirchiunplugged_1@353022/index_1_a-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Filmy Mirchi
+https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Mirchi Delhi Punjab
+https://delhipunjab-lh.akamaihd.net/i/DelhiPunjab_1@4165/index_1_a-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Mehfil Mirchi
+https://mirchimahfil-lh.akamaihd.net/i/MirchiMehfl_1@120798/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Club Mirchi
+https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Mirchi 90s
+https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/index_1_a-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Mirchi Drive Radio
+https://driveradio-lh.akamaihd.net/i/DriveRadio_1@793591/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Mirchi Indies
+https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Pehla Nasha
+https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", English Love
+https://radioromancehdli-lh.akamaihd.net/i/RadioRomanceHDLive_1_1@334956/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", International Hits
+https://hitzhls-lh.akamaihd.net/i/Hitz_HLS_1@177017/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Purani Jeans
+https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", River of Calm
+https://listen.radioking.com/radio/49831/stream/86743
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Radio Nature
+https://streamingv2.shoutcast.com/RadioNature
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Hungama -Hot New Bollywood
+http://103.16.47.70:7222/;
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Hungama-BOllywood Dil Se
+http://103.16.47.70:7333/;
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Hungama- 90s Once Again
+http://103.16.47.70:7444/;
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Hungama-Bhakti Sagar
+http://103.16.47.70:7777/;
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Hungama-Punjabi Hits
+http://103.16.47.70:9888/;
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Hungama-Bolly Dance Hits
+http://103.16.47.70:9222/;
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Hungama-Mehfil Row
+http://103.16.47.70:9666/;
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Non Stop Hindi
+http://s5.voscast.com:8216/;
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Devraag Radio Devotional
+https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Bhajan Radio
+http://192.99.35.215:5086/stream
+
 
 
 
