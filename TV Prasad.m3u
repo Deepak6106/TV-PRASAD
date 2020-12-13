@@ -1159,8 +1159,11 @@ https://tivimateplaylists.live/amnews
 https://tivimateplaylists.live/zoomonnews
 #EXTINF:45 tvg-id="1151" group-title="Marathi Prasad" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rangamanch.png",Rangmanch
 https://tivimateplaylists.live/rangmanch
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-271/list/386x386/sugrantv.png" group-title="Zee5", Sugran TV
+http://indtv.online/zee5/0-9-271.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sugran.png" group-title="Marathi", Sugran
+http://indtv.online/jiotv/Sugran.m3u8
 
 
 
