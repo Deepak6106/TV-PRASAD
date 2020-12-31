@@ -13,8 +13,7 @@ https://wxca.cf/j/Sony_SAB_HD/master.m3u8?signature=d4599106f9284f24f731a060f44a
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/FKXLLtzdXI.png" group-title="Hindi  JioTV  Movies", (प्रसाद) Colors Cineplex HD
 https://wxca.cf/j/Colors_Cineplex_HD/master.m3u8?signature=f3b24a4f422130d6ceb2efafa0f28b92705a218e&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/tEjAMpwRiI.png" group-title="Hindi  Entertainment  JioTV+", (प्रसाद) Colors HD
-http://jiotv.live.cdn.jio.com/bpk-tv/Colors_HD_BTS/output/index.mpd|User-Agent=KAIOS
+
 
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/mToXWIcPmy.png" group-title="Hindi  JioTV  Entertainment", (प्रसाद) Sony SAB
 https://wxca.cf/j/Sony_SAB/master.m3u8?signature=772dce2d90d7dc442b4698607cd1ef6ce8103798&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
@@ -28,8 +27,7 @@ https://wxca.cf/j/And_TV_HD/master.m3u8?signature=af64b7765220c19dc648a0840b9b15
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/FMOHehHJwt.png" group-title="Hindi  JioTV  Entertainment", (प्रसाद) Zee TV HD
 https://wxca.cf/j/Zee_TV_HD/master.m3u8?signature=f47bf6fc37874384866a0ce6b215d845c675edd2&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/MOevNqSYYT.png" group-title="Hindi  Entertainment  JioTV+", (प्रसाद) DD National
-http://jiotv.live.cdn.jio.com/bpk-tv/DD_National_BTS/output/index.mpd|User-Agent=KAIOS
+
 
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/OpMbHDkiQq.png" group-title="Hindi  JioTV  Entertainment", (प्रसाद) Zee Anmol
 https://wxca.cf/j/Zee_Anmol/master.m3u8?signature=8e4a2c00f4e9c90e767e26104970ae1d072b9def&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
@@ -37,8 +35,7 @@ https://wxca.cf/j/Zee_Anmol/master.m3u8?signature=8e4a2c00f4e9c90e767e26104970ae
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/rbwwEwsHey.png" group-title="Hindi  JioTV  Entertainment", (प्रसाद) Sony Pal
 https://wxca.cf/j/Sony_Pal/master.m3u8?signature=d74cb8627f22c4e1ea9838c7c07f4f26511426ba&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/dbJHqBvRmo.png" group-title="Hindi  Entertainment  JioTV+", (प्रसाद) Rishtey
-http://jiotv.live.cdn.jio.com/bpk-tv/Rishtey_BTS/output/index.mpd|User-Agent=KAIOS
+
 
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/uTpmcLwqvD.PNG" group-title="Hindi  JioTV  Entertainment", (प्रसाद) Investigation Discovery
 https://wxca.cf/j/ID/master.m3u8?signature=23e251031f2cdefd06f363c83188ae0679ffc859&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
@@ -46,8 +43,7 @@ https://wxca.cf/j/ID/master.m3u8?signature=23e251031f2cdefd06f363c83188ae0679ffc
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/hzDjbAgAiF.png" group-title="Hindi  JioTV  Entertainment", (प्रसाद) Arre HD
 https://wxca.cf/j/Arre/master.m3u8?signature=fd1d3007e60eddd4b921f8df937be05170cb40f3&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/nGFKgDQNEU.png" group-title="Hindi  Infotainment  JioTV+", (प्रसाद) DD Kisan
-http://jiotv.live.cdn.jio.com/bpk-tv/DD_Kisan_BTS/output/index.mpd|User-Agent=KAIOS
+
 
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/IZYwZnWxIa.png" group-title="Hindi  JioTV  Movies", (प्रसाद) Housefull Movies
 https://wxca.cf/j/Housefull_Movies/master.m3u8?signature=62fbfdc0b6f7fb058c71a3bc61a5ba7bb1cae2b2&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
@@ -61,8 +57,7 @@ https://wxca.cf/j/Sony_Max_HD/master.m3u8?signature=b452db05ec9d0bc785057ef82546
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/IQCGpEGUCZ.png" group-title="Hindi  JioTV  Movies", (प्रसाद) Zee Cinema
 https://wxca.cf/j/Zee_Cinema/master.m3u8?signature=4a37ac3177307f680e2148056077bbf49d740646&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/WDFtZfSkdK.png" group-title="Hindi  Movies  JioTV+", (प्रसाद) Jio Bollywood Premium HD
-http://jiotv.live.cdn.jio.com/bpk-tv/EROSNOW_Hindi_Premium_BTS/output/index.mpd|User-Agent=KAIOS
+
 
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/UbEJodncvP.png" group-title="Hindi  JioTV  Movies", (प्रसाद) And Pictures HD
 https://wxca.cf/j/And_Pictures_HD/master.m3u8?signature=4b9bfb3ce6ad7a7b74bf1ef5549db092cc6bfe6e&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
@@ -73,11 +68,9 @@ https://wxca.cf/j/Zee_Classic/master.m3u8?signature=2decf369b0c01e59073afe09de28
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/DMHOVtarQe.png" group-title="Hindi  JioTV  Movies", (प्रसाद) Zee Action
 https://wxca.cf/j/Zee_Action/master.m3u8?signature=2b83020334f38f760173981865eb5366863cb4c7&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/LkBpdGpxlS.png" group-title="Hindi  Movies  JioTV+", (प्रसाद) B4U Movies
-http://jiotv.live.cdn.jio.com/bpk-tv/B4U_Movies_BTS/output/index.mpd|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/KcrJKtHrAW.png" group-title="Hindi  Movies  JioTV+", (प्रसाद) Enterr 10
-http://jiotv.live.cdn.jio.com/bpk-tv/Enterr_10_BTS/output/index.mpd|User-Agent=KAIOS
+
+
 
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/kFayUEjHpQ.png" group-title="Hindi  JioTV  Movies", (प्रसाद) Sony MAX2
 https://wxca.cf/j/Sony_MAX2/master.m3u8?signature=2171adcb0f969a84992196340aec319f84a0772d&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
@@ -85,17 +78,14 @@ https://wxca.cf/j/Sony_MAX2/master.m3u8?signature=2171adcb0f969a84992196340aec31
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/fvoueyIogX.png" group-title="Hindi  JioTV  Movies", (प्रसाद) Zee Anmol Cinema
 https://wxca.cf/j/Zee_Anmol_Cinema/master.m3u8?signature=834a575be7001d2466b411007a197ed2d214f25f&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/PfEmkzbLue.png" group-title="Hindi  Movies  JioTV+", (प्रसाद) Maha Movies
-http://jiotv.live.cdn.jio.com/bpk-tv/Maha_Movies_BTS/output/index.mpd|User-Agent=KAIOS
+
 
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/dbhyDIATqf.png" group-title="Hindi  JioTV  Movies", (प्रसाद) Colors Cineplex
 https://wxca.cf/j/Colors_Cineplex/master.m3u8?signature=d0677c87f51d1763e6c4525f3c745c4b6490f839&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/fcgZYtCnyf.png" group-title="Hindi  Movies  JioTV+", (प्रसाद) Box Cinema
-http://jiotv.live.cdn.jio.com/bpk-tv/Box_Cinema_MOB/output/index.mpd|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/NIFfXAjSMJ.png" group-title="Hindi  Sports  JioTV+", (प्रसाद) DD Sports
-http://jiotv.live.cdn.jio.com/bpk-tv/DD_Sports_BTS/output/index.mpd|User-Agent=KAIOS
+
+
 
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/WevoOJBBlD.png" group-title="Hindi  JioTV  Sports", (प्रसाद) Ten 3 HD
 https://wxca.cf/j/Ten3_HD/master.m3u8?signature=ac8fde1113bc9731f9302ec1cc4e33df035f17c5&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
@@ -103,8 +93,7 @@ https://wxca.cf/j/Ten3_HD/master.m3u8?signature=ac8fde1113bc9731f9302ec1cc4e33df
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/SewJoaeUcv.png" group-title="Hindi  JioTV  Kids", (प्रसाद) Jio KIDS
 https://wxca.cf/j/Jio_KIDS/master.m3u8?signature=c5562a2c55bed59890f51a1d473716f1c934e279&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/ZyiABYEBbP.png" group-title="Hindi  Entertainment  JioTV+", (प्रसाद) DD India
-http://jiotv.live.cdn.jio.com/bpk-tv/DD_India_BTS/output/index.mpd|User-Agent=KAIOS
+
 
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/FnJpgPxXzw.png" group-title="Hindi  JioTV  Kids", (प्रसाद) Sonic Hindi
 https://wxca.cf/j/sonic_Hindi/master.m3u8?signature=370b12d6608fe8aad62223713f53e1ae970c0e74&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
@@ -127,8 +116,7 @@ https://wxca.cf/j/Pogo_Hindi/master.m3u8?signature=ffd3b36e8f9b390382be8dcdf9c17
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/VMFtVLsxwI.png" group-title="Gujarati  JioTV  Kids", (प्रसाद) Sonic Gujarati
 https://wxca.cf/j/Sonic_Gujarati/master.m3u8?signature=0954a5de413c7a5ad3c249401162d6cffffc3ce4&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/XMeSRduvFa.png" group-title="Hindi  Kids  JioTV+", (प्रसाद) Nick Junior
-http://jiotv.live.cdn.jio.com/bpk-tv/Nick_Junior_BTS/output/index.mpd|User-Agent=KAIOS
+
 
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/pRXOahTKqV.png" group-title="Hindi  JioTV  Kids", (प्रसाद) Sony Yay Hindi
 https://wxca.cf/j/Sony_Yay_Hindi/master.m3u8?signature=9a5a345b99647a0325a0162309dc25c7f5166a97&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
@@ -142,11 +130,9 @@ https://wxca.cf/j/Sony_BBC_Earth_HD/master.m3u8?signature=db15238c53772393e56c37
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/uykQvLexjA.png" group-title="Hindi  JioTV  Entertainment", (प्रसाद) Epic
 https://wxca.cf/j/Epic_HD/master.m3u8?signature=d49c7f4ae4e793429feca5640e928a8b0ddd71b4&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/REpyHSodiX.png" group-title="Hindi  Infotainment  JioTV+", (प्रसाद) Care World
-http://jiotv.live.cdn.jio.com/bpk-tv/Care_World_MOB/output/index.mpd|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/JOvWgHEAAH.png" group-title="Hindi  Infotainment  JioTV+", (प्रसाद) Jio Events HD
-http://jiotv.live.cdn.jio.com/bpk-tv/Jio_Events_BTS/output/index.mpd|User-Agent=KAIOS
+
+
 
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/jKNiOAOvvQ.png" group-title="Hindi  JioTV  Infotainment", (प्रसाद) Discovery Channel Hindi
 https://wxca.cf/j/Discovery_Channel_Hindi/master.m3u8?signature=1477cb24c8c8a03dd40be7c400dc445eab4b4699&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
@@ -154,17 +140,13 @@ https://wxca.cf/j/Discovery_Channel_Hindi/master.m3u8?signature=1477cb24c8c8a03d
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/xjLvVdqqjx.png" group-title="Hindi  JioTV  Infotainment", (प्रसाद) Animal Planet Hindi
 https://wxca.cf/j/Animal_Planet_Hindi/master.m3u8?signature=a44352bdfccf9cad36b672f0f3d2b652699a893f&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/IjQGhrcVpa.png" group-title="Hindi  Movies  JioTV+", (प्रसाद) Bflix Movies
-http://jiotv.live.cdn.jio.com/bpk-tv/Bflix_Movies_MOB/output/index.mpd|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/HXgwdibOKg.png" group-title="Hindi  Entertainment  JioTV+", (प्रसाद) Raj Pariwar
-http://jiotv.live.cdn.jio.com/bpk-tv/Raj_Pariwar_BTS/output/index.mpd|User-Agent=KAIOS
+
 
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/euHrqDIxNj.png" group-title="Hindi  JioTV  Movies", (प्रसाद) Manoranjan TV
 https://wxca.cf/j/Manoranjan_TV/master.m3u8?signature=68a15fa39bd263107ac76d1fe7de7a2608e62936&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/McluvlKNEt.png" group-title="Hindi  Movies  JioTV+", (प्रसाद) B4U Kadak
-http://jiotv.live.cdn.jio.com/bpk-tv/B4U_Kadak_MOB/output/index.mpd|User-Agent=KAIOS
+
 
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/JDwzvrTQMT.png" group-title="Hindi  JioTV  Entertainment", (प्रसाद) Sony Wah
 https://wxca.cf/j/Sony_Wah/master.m3u8?signature=4902575eac9ae1fe40656c25d839767470b308f4&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
@@ -178,29 +160,16 @@ https://wxca.cf/j/Rishtey_Cineplex/master.m3u8?signature=1ddc84c0e24bd3f0bf6c049
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/OUTSuWMfID.png" group-title="Hindi  JioTV  Entertainment", (प्रसाद) Dabangg
 https://wxca.cf/j/Dabangg/master.m3u8?signature=1eb3bc02953faca65582b5d5cca2a1ea70582b98&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/hogZiBQSXd.png" group-title="Hindi  Infotainment  JioTV+", (प्रसाद) DD bharati
-http://jiotv.live.cdn.jio.com/bpk-tv/DD_bharati_BTS/output/index.mpd|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/zGTFdQuxCE.png" group-title="Hindi  Entertainment  JioTV+", (प्रसाद) DD Madhya Pradesh
-http://jiotv.live.cdn.jio.com/bpk-tv/DD_Madhya_Pradesh_BTS/output/index.mpd|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/WqfWBadyTO.png" group-title="Hindi  Entertainment  JioTV+", (प्रसाद) DD Rajasthan (Jaipur)
-http://jiotv.live.cdn.jio.com/bpk-tv/DD_Rajasthan_Jaipur_BTS/output/index.mpd|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/YuzBxLOjtS.png" group-title="Hindi  Entertainment  JioTV+", (प्रसाद) DD Bihar
-http://jiotv.live.cdn.jio.com/bpk-tv/DD_Bihar_BTS/output/index.mpd|User-Agent=KAIOS
+
+
 
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/CKZFSzpnIb.png" group-title="Hindi  JioTV  Infotainment", (प्रसाद) Jio Promo HD
 https://wxca.cf/j/Barker/master.m3u8?signature=643145d930319eac9741867c8d967b262ad311dd&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/vjOTazKrbV.png" group-title="Entertainment  Gujarati  JioTV+", (प्रसाद) Colors Gujarati
-http://jiotv.live.cdn.jio.com/bpk-tv/Colors_Gujarati_BTS/output/index.mpd|User-Agent=KAIOS
 
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/OCzvqHbYhl.png" group-title="Entertainment  Gujarati  JioTV+", (प्रसाद) DD Girnar
-http://jiotv.live.cdn.jio.com/bpk-tv/DD_Girnar_BTS/output/index.mpd|User-Agent=KAIOS
-
-#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/EKqMMRSLSq.png" group-title="Hindi  Entertainment  JioTV+", (प्रसाद) Andy Haryana
-http://jiotv.live.cdn.jio.com/bpk-tv/Andy_Haryana_BTS/output/index.mpd|User-Agent=KAIOS
 
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/oPGFiUThvq.png" group-title="Hindi  JioTV  Entertainment", (प्रसाद) Dhamaal TV
 https://wxca.cf/j/Dhamaal_TV/master.m3u8?signature=a7754a4a2e999fe3f5e7f2374afe9d8990701149&unique=6f194f82bfafa03b829962486c163e8d|User-Agent=KAIOS
